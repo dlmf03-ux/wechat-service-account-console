@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+wechat_console_config.php
+wechat_log.txt
+*.log
+.idea/
+.vscode/
